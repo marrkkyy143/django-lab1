@@ -37,6 +37,7 @@ INSTALLED_APPS = [ #список встановлених Django-додаткі�
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'app_blog',
 ]
 
 MIDDLEWARE = [
